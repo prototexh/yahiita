@@ -9,6 +9,11 @@ You can use email to send bug reports or suggestions, or this GitHub issue track
 
 As a developer I want to make Yahiita perfect. I welcome all user ideas and opinions.
 
+# App Status:
+## Android
+### I need **beta testers** for the Android version.
+Please join the [Google Group](https://groups.google.com/g/prototexh/) to get access and updates on the Android version.
+
 ## How to report a bug, missing feature, or suggest an enhancement
 
 1. Open the `Issues` tab above. Search existing issues to see if someone else has already beat you to it. 
@@ -21,4 +26,4 @@ If you have multiple bugs or requests that are not closely related, please separ
 
 # How to get support
 
-If you can't find what you need there, follow the steps above for reporting a bug. It is ok to use the Issues database to ask a question. You may also email us if you prefer. 
+If you can't find what you need there, follow the steps above for reporting a bug. It is ok to use the Issues database to ask a question. You may also email us if you prefer.
